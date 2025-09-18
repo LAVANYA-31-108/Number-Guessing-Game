@@ -1,1 +1,1 @@
-# Number-Guessing-Game
+A simple Python game where the computer picks a random number between 1 and 100, and the player tries to guess it. The game provides hints (too high/too low) and counts the number of attempts until the correct guess.
